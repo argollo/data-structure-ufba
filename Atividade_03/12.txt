@@ -1,0 +1,8 @@
+int *pti;
+int i = 10;
+ pti = &i;
+ a)V
+ b)V
+ c)V
+ d)F
+ e)V

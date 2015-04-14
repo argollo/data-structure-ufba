@@ -1,0 +1,2 @@
+
+São entes que possuem o poder de armazenar o endereço onde estão localizadas determinadas informações. Falando em termos de programação, podemos entender um ponteiro como uma variável que armazena (aponta) um endereço de memória onde está localizado um valor.

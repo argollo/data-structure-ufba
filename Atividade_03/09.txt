@@ -1,0 +1,4 @@
+9-) a) o endereço de memoria de p é diferente do end de memoria de i, porque é o *p que recebe o end de memoria de i.
+    b)-2
+    c)3
+

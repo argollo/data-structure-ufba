@@ -1,0 +1,5 @@
+Lista sobre teoria de arrays, matriz e ponteiros em C
+
+Matheus Lobo de Souza Martins
+mat_lo@hotmail.com	
+Estrutura de Dados

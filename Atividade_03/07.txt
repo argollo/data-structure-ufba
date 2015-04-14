@@ -1,0 +1,2 @@
+7-) Faltou inicializar o ponteiro com *pj = NULL
+
